@@ -46,16 +46,6 @@ Estudante de Ciência da Computação na USCS e desenvolvedor Full Stack apaixon
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauamconceicao&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cauamconceicao&layout=compact&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cauamconceicao&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cauã-conceição-337b18351)
