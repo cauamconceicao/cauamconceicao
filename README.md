@@ -12,6 +12,7 @@ Estudante de Ciência da Computação na USCS e desenvolvedor Full Stack apaixon
 | 💰 **TrackFinance** | Controle financeiro pessoal com metas | React, Supabase, Tailwind | [Ver projeto](https://trackfinance-gamma.vercel.app) |
 | 🛒 **TechStore** | E-commerce completo com painel admin | React, Node.js, PostgreSQL | [Ver projeto](https://techstore-66285ozke-caua-martins-conceicao-s-projects.vercel.app) |
 | 🔗 **FinanceApi** | API REST financeira com autenticação JWT | C#, ASP.NET Core, SQLite | [Ver API](https://finance-api-y04i.onrender.com) |
+| 🏦 **Bank API** | API de banco digital com transferências | Java, Spring Boot, PostgreSQL | [Ver API](https://bank-api-oj8n.onrender.com) |
 
 ---
 
@@ -28,6 +29,8 @@ Estudante de Ciência da Computação na USCS e desenvolvedor Full Stack apaixon
 **Back-end**
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
