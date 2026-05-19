@@ -13,6 +13,7 @@ Estudante de Ciência da Computação na USCS e desenvolvedor Full Stack apaixon
 | 🛒 **TechStore** | E-commerce completo com painel admin | React, Node.js, PostgreSQL | [Ver projeto](https://techstore-66285ozke-caua-martins-conceicao-s-projects.vercel.app) |
 | 🔗 **FinanceApi** | API REST financeira com autenticação JWT | C#, ASP.NET Core, SQLite | [Ver API](https://finance-api-y04i.onrender.com) |
 | 🏦 **Bank API** | API de banco digital com transferências | Java, Spring Boot, PostgreSQL | [Ver API](https://bank-api-oj8n.onrender.com) |
+| 🤖 **Finance Chat API** | Chatbot financeiro inteligente com IA | Python, FastAPI, Google Gemini | [Ver API](https://finance-chat-api.onrender.com) |
 
 ---
 
@@ -29,6 +30,8 @@ Estudante de Ciência da Computação na USCS e desenvolvedor Full Stack apaixon
 **Back-end**
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -40,12 +43,16 @@ Estudante de Ciência da Computação na USCS e desenvolvedor Full Stack apaixon
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**IA & APIs**
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 **Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
